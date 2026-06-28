@@ -49,14 +49,9 @@ Refer to individual module documentation for usage instructions and examples.
 - Network security
 - Performance monitoring
 
-## Contributing
-Contributions are welcome! Please feel free to submit pull requests or open issues.
 
 ## Author
 Boyaf3
-
-## License
-[Add your license information here]
 
 ## References
 - Networking Documentation
